@@ -1,4 +1,4 @@
-# Bellabeat-Wellness-Analysis
+# Data-Driven_Insights_to_Align_Bellabeat_Marketing_Strategy_with_User_trends.
 
 ## Table of Contents
 - [Introduction](#introduction)
